@@ -11,4 +11,4 @@ For using the application, download or clone the repository using ``git clone ht
 
 To start the application type ``yarn dev (or npm run dev)``.
 
-The application can also be found at [MovieBox](https://movie-box-react.herokuapp.com/)([CA1_Movies](https://movie-list-c0857.firebaseapp.com)).
+The application can also be found at [CA2 MovieBox](https://movie-box-react.herokuapp.com/)([CA1 Movie List](https://movie-list-c0857.firebaseapp.com)).
